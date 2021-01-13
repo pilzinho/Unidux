@@ -1,0 +1,8 @@
+{
+    "name": "com.mattak.unidux",
+    "displayName": "Unidux",
+    "version": "0.3.4",
+    "unity": "2018.3",
+    "description": "Unidux is practical application architecture for Unity3D UI. It's inspired by Redux.",
+    "dependencies": { }
+}
